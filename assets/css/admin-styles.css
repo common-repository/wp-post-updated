@@ -1,0 +1,20 @@
+.thfo_subscriber td,
+.thfo_subscriber th {
+    border-bottom: solid 1px black;
+    text-align: center;
+}
+
+.thfo_subscriber a {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+
+button.donate-btn {
+    background: #fe5000;
+    color: #f1f1f1;
+    border-radius: 42px;
+    width: 200px;
+    height: 80px;
+    font-size: xx-large;
+}
